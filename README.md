@@ -1,2 +1,2 @@
-# java-concurrency
-有关java并发的技巧学习
+# java-note
+java知识整理
